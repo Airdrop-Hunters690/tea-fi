@@ -22,7 +22,7 @@ function displayHeader() {
   const headerLines = [
     "<|============================================|>",
     " Tea-fi Bot ",
-    " github.com/recitativonika ",
+    " https://github.com/Airdrop-Hunters690/ ",
     "<|============================================|>"
   ];
   headerLines.forEach(line => {

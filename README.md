@@ -16,7 +16,7 @@ Tea-fi Bot is a simple tool designed to automate the account registration, TX an
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/recitativonika/tea-fi.git
+   git clone https://github.com/Airdrop-Hunters690/tea-fi.git
    ```
 2. Navigate to the project directory:
    ```bash

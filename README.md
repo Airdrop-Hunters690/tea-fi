@@ -29,7 +29,7 @@ Tea-fi Bot is a simple tool designed to automate the account registration, TX an
 
 ## Usage
 
-1. Ensure you have POL (Matic) in your wallet, and you can register/connect your wallet in tea-fi in [this link](app.tea-fi.com/?ref=440wj4
+1. Ensure you have POL (Matic) in your wallet, and you can register/connect your wallet in tea-fi in [this link](app.tea-fi.com/?ref=440wj40
    ) or just put your priv key in `priv.txt`, the script will auto register/connect your account.
 2. Set the `priv.txt` before running the script. Below how to setup this fie.
 3. Modify the `priv.txt` file with your wallet priv key:
@@ -56,5 +56,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Note
 This script only for testing purpose, using this script might violates ToS and may get your account permanently banned.
 
-My reff code if you want to use :) : https://app.tea-fi.com/?ref=qaikt6
+My reff code if you want to use :) : https://app.tea-fi.com/?ref=440wj40
 

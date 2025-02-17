@@ -1,6 +1,9 @@
 # Tea-fi Bot
 Tea-fi Bot is a simple tool designed to automate the account registration, TX and daily reward claim interaction.
 
+# Tea-fi Sign Up
+(https://app.tea-fi.com/?ref=440wj40)
+
 ## Features
 - **Automated TX interaction**
 - **Auto claim daily rewards**
@@ -26,7 +29,7 @@ Tea-fi Bot is a simple tool designed to automate the account registration, TX an
 
 ## Usage
 
-1. Ensure you have POL (Matic) in your wallet, and you can register/connect your wallet in tea-fi in [this link](https://app.tea-fi.com/?ref=qaikt6
+1. Ensure you have POL (Matic) in your wallet, and you can register/connect your wallet in tea-fi in [this link](app.tea-fi.com/?ref=440wj4
    ) or just put your priv key in `priv.txt`, the script will auto register/connect your account.
 2. Set the `priv.txt` before running the script. Below how to setup this fie.
 3. Modify the `priv.txt` file with your wallet priv key:
